@@ -23,17 +23,14 @@ Base de dados:
 <br>netflix_data</br>
 
 Arquivos gerados ao executar o projeto:
-
 <br>database/dbnetflix.db  - ( a pasta originalmente pode estar vazia, pois será gerado o arquivo do banco de dados )</br>
 <br>imagens/bar_moviesVSyear.png</br>
 <br>imagens/bar_tvshowsVSyear.png</br>
 <br>imagens/pie_moviesVStvshows.png</br>
-</br>
 <br>netflix_df.csv</br>
 <br>netflix_dfv2.csv</br>
 <br>netflix_dfv3.csv</br>
 <br>netflix_dfv4.csv</br>
-
 Imagem cabeçalho projeto:
 <br>netflix_img2.png</br>
 
