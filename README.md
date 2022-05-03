@@ -9,7 +9,6 @@ Link para a base original:
 link kaggle.txt
 
 Arquivos Python para executar em ordem : 
-
 <br>Netflix.ipynb</br>
 <br>Netflix2.ipynb</br>
 <br>Netflix3.ipynb</br>
@@ -31,6 +30,6 @@ Arquivos gerados ao executar o projeto:
 <br>netflix_dfv2.csv</br>
 <br>netflix_dfv3.csv</br>
 <br>netflix_dfv4.csv</br>
+
 Imagem cabeçalho projeto:
 <br>netflix_img2.png</br>
-
