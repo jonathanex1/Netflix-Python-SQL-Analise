@@ -21,7 +21,7 @@ Módulo utilizado como pacote no python:
 <br>tratamento_ausentes.py</br>
 
 Base de dados:
-
+</br>
 <br>netflix_data</br>
 
 Arquivos gerados ao executar o projeto:
@@ -35,5 +35,5 @@ Arquivos gerados ao executar o projeto:
 <br>netflix_dfv4.csv</br>
 
 Imagem cabeçalho projeto:
-
+</br>
 <br>netflix_img2.png</br>
