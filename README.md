@@ -21,7 +21,7 @@ link kaggle.txt
 <br>tratamento_ausentes.py</br>
 
 <h3>Base de dados:</h3>
-<br>netflix_data</br>
+netflix_data</br>
 
 <h3>Arquivos gerados ao executar o projeto:</h3>
 </br>
