@@ -9,6 +9,7 @@ Link para a base original:
 link kaggle.txt
 
 Arquivos Python para executar em ordem : 
+
 <br>Netflix.ipynb</br>
 <br>Netflix2.ipynb</br>
 <br>Netflix3.ipynb</br>
@@ -16,9 +17,11 @@ Arquivos Python para executar em ordem :
 <br>Correcao_Campos_Import_PowerBI.ipynb</br>
 
 Módulo utilizado como pacote no python:
+
 <br>tratamento_ausentes.py</br>
 
 Base de dados:
+
 <br>netflix_data</br>
 
 Arquivos gerados ao executar o projeto:
@@ -32,4 +35,5 @@ Arquivos gerados ao executar o projeto:
 <br>netflix_dfv4.csv</br>
 
 Imagem cabeçalho projeto:
+
 <br>netflix_img2.png</br>
