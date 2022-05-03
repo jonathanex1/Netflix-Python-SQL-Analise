@@ -30,6 +30,7 @@ database/dbnetflix.db  - ( a pasta originalmente pode estar vazia, pois será ge
 <br>netflix_dfv2.csv</br>
 <br>netflix_dfv3.csv</br>
 <br>netflix_dfv4.csv</br>
+<br>netflix_dfv5.csv (para importar no power BI)</br>
 
 <h3>Imagem cabeçalho projeto:</h3>
 netflix_img2.png</br>
